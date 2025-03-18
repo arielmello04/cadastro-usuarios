@@ -53,7 +53,7 @@ Solução para o desafio técnico do processo seletivo da AutoMind, desenvolvend
 # Execute o projeto
 dotnet run
 
-🖥️ Interface do Sistema
+## 🖥️ Interface do Sistema
 Copy
 === SISTEMA DE CADASTRO DE USUÁRIOS ===
 1. Cadastrar novo usuário
@@ -63,10 +63,8 @@ Copy
 
 Digite a opção desejada: 
 
-📧 Contato
+## 📧 Contato
 LinkedIn: (https://www.linkedin.com/in/ariel-melo-6a0361179/)
-
-Copy
 
 ### Pontos-chave destacados:
 1. **Profissionalismo**: Badges e estrutura padrão de projetos .NET
