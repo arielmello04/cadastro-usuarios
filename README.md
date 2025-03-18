@@ -52,3 +52,27 @@ Solução para o desafio técnico do processo seletivo da AutoMind, desenvolvend
 
 # Execute o projeto
 dotnet run
+
+🖥️ Interface do Sistema
+Copy
+=== SISTEMA DE CADASTRO DE USUÁRIOS ===
+1. Cadastrar novo usuário
+2. Listar todos os usuários
+3. Buscar usuário por nome
+4. Sair
+
+Digite a opção desejada: 
+
+📧 Contato
+LinkedIn: (https://www.linkedin.com/in/ariel-melo-6a0361179/)
+
+Copy
+
+### Pontos-chave destacados:
+1. **Profissionalismo**: Badges e estrutura padrão de projetos .NET
+2. **Destaque Técnico**: Ênfase nas decisões arquiteturais
+3. **Visibilidade de Features**: Lista clara de funcionalidades implementadas
+4. **Diferenciais Competitivos**: Seção específica para melhorias além do solicitado
+5. **Facilidade de Avaliação**: Instruções claras de execução
+6. **Transparência**: Estrutura de código e organização de arquivos
+7. **Contexto Profissional**: Seção de contato e licença
