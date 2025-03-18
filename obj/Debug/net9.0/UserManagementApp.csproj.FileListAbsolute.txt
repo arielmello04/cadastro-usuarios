@@ -1,0 +1,14 @@
+D:\Coding\cadastroUsuarios\UserManagementApp\bin\Debug\net9.0\UserManagementApp.exe
+D:\Coding\cadastroUsuarios\UserManagementApp\bin\Debug\net9.0\UserManagementApp.deps.json
+D:\Coding\cadastroUsuarios\UserManagementApp\bin\Debug\net9.0\UserManagementApp.runtimeconfig.json
+D:\Coding\cadastroUsuarios\UserManagementApp\bin\Debug\net9.0\UserManagementApp.dll
+D:\Coding\cadastroUsuarios\UserManagementApp\bin\Debug\net9.0\UserManagementApp.pdb
+D:\Coding\cadastroUsuarios\UserManagementApp\obj\Debug\net9.0\UserManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\cadastroUsuarios\UserManagementApp\obj\Debug\net9.0\UserManagementApp.AssemblyInfoInputs.cache
+D:\Coding\cadastroUsuarios\UserManagementApp\obj\Debug\net9.0\UserManagementApp.AssemblyInfo.cs
+D:\Coding\cadastroUsuarios\UserManagementApp\obj\Debug\net9.0\UserManagementApp.csproj.CoreCompileInputs.cache
+D:\Coding\cadastroUsuarios\UserManagementApp\obj\Debug\net9.0\UserManagementApp.dll
+D:\Coding\cadastroUsuarios\UserManagementApp\obj\Debug\net9.0\refint\UserManagementApp.dll
+D:\Coding\cadastroUsuarios\UserManagementApp\obj\Debug\net9.0\UserManagementApp.pdb
+D:\Coding\cadastroUsuarios\UserManagementApp\obj\Debug\net9.0\UserManagementApp.genruntimeconfig.cache
+D:\Coding\cadastroUsuarios\UserManagementApp\obj\Debug\net9.0\ref\UserManagementApp.dll
