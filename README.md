@@ -38,7 +38,7 @@ Solução para o desafio técnico do processo seletivo da AutoMind, desenvolvend
   - `System.Collections.Generic` para coleções tipadas
 
 ## 🖥️ Interface do Sistema
-Copy
+
 === SISTEMA DE CADASTRO DE USUÁRIOS ===
 1. Cadastrar novo usuário
 2. Listar todos os usuários
