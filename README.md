@@ -37,22 +37,6 @@ Solução para o desafio técnico do processo seletivo da AutoMind, desenvolvend
   - `System.Text.RegularExpressions` para validação de e-mails
   - `System.Collections.Generic` para coleções tipadas
 
-## 🚀 Como Executar
-
-### Pré-requisitos
-- [.NET 6.0 SDK](https://dotnet.microsoft.com/download/dotnet/6.0) ou superior
-
-### Passo a Passo
-```bash
-# Clone o repositório
-
-# Acesse o diretório
-
-# Restaure as dependências
-
-# Execute o projeto
-dotnet run
-
 ## 🖥️ Interface do Sistema
 Copy
 === SISTEMA DE CADASTRO DE USUÁRIOS ===
@@ -74,3 +58,19 @@ LinkedIn: (https://www.linkedin.com/in/ariel-melo-6a0361179/)
 5. **Facilidade de Avaliação**: Instruções claras de execução
 6. **Transparência**: Estrutura de código e organização de arquivos
 7. **Contexto Profissional**: Seção de contato e licença
+
+## 🚀 Como Executar
+
+### Pré-requisitos
+- [.NET 6.0 SDK](https://dotnet.microsoft.com/download/dotnet/6.0) ou superior
+
+### Passo a Passo
+```bash
+# Clone o repositório
+
+# Acesse o diretório
+
+# Restaure as dependências
+
+# Execute o projeto
+dotnet run
